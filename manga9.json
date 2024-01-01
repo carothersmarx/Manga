@@ -1,0 +1,17 @@
+{
+  "title": "Manga #9",
+  "description": "Dua gadis berkelana di angkasa untuk menemukan tempat bersinggah.",
+  "artist": "Yomoi Nui",
+  "author": "Yomoi Nui",
+  "cover": "https://i.imgur.com/vtyQfnG.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1704109063",
+      "groups": {
+        "caro": "/proxy/api/imgur/chapter/ksRaO7u"
+      }
+    }
+  }
+}
